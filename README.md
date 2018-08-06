@@ -7,7 +7,7 @@ https://mapillary-ua.github.io/np.mapillary-2018/
 Cторінка на сайті OpenStreetMap Wiki
 https://wiki.openstreetmap.org/wiki/Uk:NP@Mapillary_2018
 
-Cторінка на форумі OpenStreetMap (*2017)
-https://forum.openstreetmap.org/viewtopic.php?pid=642790#p642790
+Cторінка на форумі OpenStreetMap
+https://forum.openstreetmap.org/viewtopic.php?id=63286
 
 ![Desktop](https://mapillary-ua.github.io/np.mapillary-2018/page.png)
